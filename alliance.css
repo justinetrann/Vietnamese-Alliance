@@ -1,13 +1,8 @@
-/*Holds woods image*/
-body{
-    /*Image used*/
-    background-image: url(images/woods.jpg);
-
-    /*Half Height*/
-    height: 60%;
-
-    /*Center and scale the image*/
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+/*Holds video*/
+#bgVideo{
+    display: block;
+    width: 50%;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
 }
