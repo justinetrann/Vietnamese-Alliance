@@ -1,9 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Allan&family=Rammetto+One&display=swap");
 body, html {
     padding: 0;
     margin: 0;
   }
 
-/*Holds video*/
+/*Font-Styling*/
+body{
+    font-family: "Rammetto One", cursive;
+    text-transform: uppercase;
+    overflow-x: hidden;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+/*Video Style*/
 #bgVideo{
     width: 100%;
     height: 100%;
@@ -12,3 +25,11 @@ body, html {
     top: 0;
     left: 0;
 }
+
+.logo-container{
+    position: relative;
+    height: 10%;
+    width: 10%;
+    text-align: left;
+    justify-content: center;
+  }
