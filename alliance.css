@@ -11,6 +11,7 @@ body{
     overflow-x: hidden;
 }
 
+/*logo-container: img contained within*/
 img{
     height: 100%;
     width: 100%;
@@ -26,6 +27,7 @@ img{
     left: 0;
 }
 
+/*THEALLIANCE Logo*/
 .logo-container{
     position: relative;
     height: 10%;
