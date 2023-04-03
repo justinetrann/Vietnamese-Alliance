@@ -2,7 +2,7 @@
 body, html {
     padding: 0;
     margin: 0;
-  }
+}
 
 /*Font-Styling*/
 body{
@@ -34,7 +34,7 @@ img{
     width: 10%;
     text-align: left;
     justify-content: center;
-  }
+}
 
 /*Formatting Buttons*/
 button{
